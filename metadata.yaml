@@ -1,11 +1,16 @@
 _repo: Bible-Burning-the-substance-of-a-sermon-preached-in-St-Martin-s-Church-Birmingham-on-Sunday-e__64732
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64732-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, John C.
     gutenberg_agent_id: '53029'
     url: http://www.gutenberg.org/2009/agents/53029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64732#Bible-Burning-the-substance-of-a-sermon-preached-in-St-Martin-s-Church-Birmingham-on-Sunday-e_
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
